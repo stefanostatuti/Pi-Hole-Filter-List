@@ -1,3 +1,7 @@
+# PiHole Regex List
+#
+# last Update 03-01-2020 19.00
+#
 (^|\.)ladsup\.com$
 (^|\.)forter\.com$
 (^|\.)outbrain\.com$
