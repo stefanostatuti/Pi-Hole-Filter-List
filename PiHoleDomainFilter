@@ -1,6 +1,6 @@
 # PiHole Filter List
 #
-# last Update 04-01-2020 13.00
+# last Update 04-01-2020 13:20
 #
 127.0.0.1 localhost #IPv4 localhost
 ::1 localhost #IPv6 localhost
@@ -26,14 +26,18 @@
 127.0.0.1	amp-error-reporting.appspot.com
 127.0.0.1	anizedglittledisco.info
 127.0.0.1	api.leanplum.com
+127.0.0.1	api.provocami.com
+127.0.0.1	apikeys-lb.civiccomputing.com
 127.0.0.1	awecrptjmp.com
 127.0.0.1	aweproto.com
 127.0.0.1	betsonsport.ru
+127.0.0.1	boobyliscious.com
 127.0.0.1	breakingfeedz.com
 127.0.0.1	bvzdfhpyz.com
 127.0.0.1	c.adsco.re
 127.0.0.1	cadslimz.com
 127.0.0.1	casa.tiscali.it
+127.0.0.1	cc.cdn.civiccomputing.com
 127.0.0.1	cdn.feed.4wnet.com
 127.0.0.1	cdn.wbtrk.net
 127.0.0.1	cdns.gigya.com
@@ -51,6 +55,8 @@
 127.0.0.1	gkumodsmcmffdv.com
 127.0.0.1	gooblesdd.com
 127.0.0.1	grooksom.com
+127.0.0.1	hsbrhnkgkx.com
+127.0.0.1	hsbrhnkgkx.com
 127.0.0.1	i.jads.co
 127.0.0.1	idealgasm.com
 127.0.0.1	ifnwfachxk.com
@@ -58,14 +64,16 @@
 127.0.0.1	inabsolor.com
 127.0.0.1	inoprosport.su
 127.0.0.1	interst12.com
-127.0.0.1	log.snssdk.com
 127.0.0.1	lnyhnpwjviyn.com
+127.0.0.1	log.snssdk.com
 127.0.0.1	lvidentrevious.info
+127.0.0.1	lxcyxj.com
 127.0.0.1	member.neteller.com
 127.0.0.1	metricsmonster.tv
 127.0.0.1	monetizer.ili9.co
 127.0.0.1	mopxhrgiyybr.com
 127.0.0.1	mozgvya.com
+127.0.0.1	nklwltrpzhy.com
 127.0.0.1	notifier.rarlab.com
 127.0.0.1	offers-api.myoffrz.io
 127.0.0.1	olicemanented.info
@@ -86,14 +94,17 @@
 127.0.0.1	sinsoftu.com
 127.0.0.1	smpop.icfcdn.com
 127.0.0.1	sp.popcash.net
+127.0.0.1	static.dating
 127.0.0.1	static.trafficjunky.com
 127.0.0.1	t.rebornads.com
+127.0.0.1	track.adgaem.com
 127.0.0.1	track.cam4tracking.com
 127.0.0.1	track.jobbydoo.it
 127.0.0.1	tracking.notizie.it
 127.0.0.1	tracking.trackset.com
 127.0.0.1	tracking.tuobenessere.it
 127.0.0.1	tracksbooster.com
+127.0.0.1	tracksrocket.com
 127.0.0.1	tsyndicate.com
 127.0.0.1	upsaibou.net
 127.0.0.1	viatepigan.com
@@ -106,11 +117,13 @@
 127.0.0.1	www.ecpms.net
 127.0.0.1	www.gfzluvsjsprkac.com
 127.0.0.1	www.gkumodsmcmffdv.com
+127.0.0.1	www.hsbrhnkgkx.com
 127.0.0.1	www.idealgasm.com
 127.0.0.1	www.ifnwfachxk.com
 127.0.0.1	www.lexozfldkklgvc.com
 127.0.0.1	www.lnyhnpwjviyn.com
 127.0.0.1	www.mopxhrgiyybr.com
+127.0.0.1	www.nklwltrpzhy.com
 127.0.0.1	www.pinbet.ru
 127.0.0.1	www.propadsviews.com
 127.0.0.1	www.shoreline.site
