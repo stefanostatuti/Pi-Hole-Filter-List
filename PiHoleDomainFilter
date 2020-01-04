@@ -1,6 +1,6 @@
 # PiHole Filter List
 #
-# last Update 03-01-2020 19.00
+# last Update 04-01-2020 13.00
 #
 127.0.0.1 localhost #IPv4 localhost
 ::1 localhost #IPv6 localhost
@@ -16,7 +16,7 @@
 127.0.0.1	adserver.hitparades.it
 127.0.0.1	adserver.wondir.it
 127.0.0.1	adservice.google.it
-127.0.0.1 adv.mediamond.it
+127.0.0.1	adv.mediamond.it
 127.0.0.1	adv.rtl.it
 127.0.0.1	advapp.tim.it
 127.0.0.1	advcash.com
@@ -24,6 +24,7 @@
 127.0.0.1	adx.4strokemedia.com
 127.0.0.1	alog.umeng.co
 127.0.0.1	amp-error-reporting.appspot.com
+127.0.0.1	anizedglittledisco.info
 127.0.0.1	api.leanplum.com
 127.0.0.1	awecrptjmp.com
 127.0.0.1	aweproto.com
@@ -41,6 +42,7 @@
 127.0.0.1	cluster.awmserve.com
 127.0.0.1	composivel.pro
 127.0.0.1	contehos.com
+127.0.0.1	crptentry.com
 127.0.0.1	cws.connectedpdf.com
 127.0.0.1	d144jmuhz9kvbq.cloudfront.net
 127.0.0.1	distoryrussion.info
@@ -57,9 +59,12 @@
 127.0.0.1	inoprosport.su
 127.0.0.1	interst12.com
 127.0.0.1	log.snssdk.com
+127.0.0.1	lnyhnpwjviyn.com
+127.0.0.1	lvidentrevious.info
 127.0.0.1	member.neteller.com
 127.0.0.1	metricsmonster.tv
 127.0.0.1	monetizer.ili9.co
+127.0.0.1	mopxhrgiyybr.com
 127.0.0.1	mozgvya.com
 127.0.0.1	notifier.rarlab.com
 127.0.0.1	offers-api.myoffrz.io
@@ -104,6 +109,8 @@
 127.0.0.1	www.idealgasm.com
 127.0.0.1	www.ifnwfachxk.com
 127.0.0.1	www.lexozfldkklgvc.com
+127.0.0.1	www.lnyhnpwjviyn.com
+127.0.0.1	www.mopxhrgiyybr.com
 127.0.0.1	www.pinbet.ru
 127.0.0.1	www.propadsviews.com
 127.0.0.1	www.shoreline.site
