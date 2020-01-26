@@ -1,6 +1,6 @@
 # PiHole Filter List
 #
-# last Update 12-01-2020
+# last Update 26-01-2020
 #
 127.0.0.1 localhost #IPv4 localhost
 ::1 localhost #IPv6 localhost
