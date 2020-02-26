@@ -2,8 +2,10 @@
 #
 # last Update 03-01-2020 19.00
 #
-doubleclick.net$
-(^|\.)ladsup\.com$
-(^|\.)forter\.com$
-(^|\.)outbrain\.com$
 (^|\.)adsco\.re$
+(^|\.)forter\.com$
+(^|\.)ladsup\.com$
+(^|\.)outbrain\.com$
+[a-z].exdynsrv.com
+ad.apl[0-9].me
+doubleclick.net$
