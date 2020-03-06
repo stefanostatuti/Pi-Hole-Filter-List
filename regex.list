@@ -1,15 +1,29 @@
 # PiHole Regex List
 #
-# last Update 06-03-2020 12:00
+# last Update 06-03-2020 16:00
 #
-(^|\.)ad([sxv]{0,1}|[v][s]{0,1}|\.apl[0-9])\.
-(^|\.)adsco\.re$
-(^|\.)adserve[a-z]\.
+(.space|.host|.info|.xyz|.club|.bid|.fun|.icu|.comjs|.pro|.io|.mobi|.top|.best|.site|.co|.re)$
+(^|\.)ad(mob(ile)?|[0-9]*|[sxv]?[0-9]*|([v][s]{1})|[s]rv?|([0-9]*[_.-])|(\.apl[0-9])|serv(er[0-9]*|ice|e[a-z]?|ing)?|sco|[v]{0,1}session|roll|vert(is(e|ing))?)(\.|-)
 (^|\.)click\.
 (^|\.)forter\.com$
 (^|\.)ladsup\.com$
 (^|\.)outbrain\.com$
-(^|\.)trk\.
-(^|\.)xml(\.|\.ak-is[0-9]).net$
+(^|\.)tr(k|ack(s|ing|ers)?)\.?
+(^|\.)xml(\.|\.ak-is[0-9]|\.[a-z]*)\.(net|com|bid|net)$
 [a-z].exdynsrv.com
+^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
+^(.+[_.-])?telemetry[_.-]
+^(www[0-9]*\.)?xn--
+^adim(age|g)s?[0-9]*[_.-]
+^adtrack(er|ing)?[0-9]*[_.-]
+^advert(s|is(ing|ements?))?[0-9]*[_.-]
+^analytics?[_.-]
+^banners?[_.-]
+^beacons?[0-9]*[_.-]
+^count(ers?)?[0-9]*[_.-]
+^mads\.
+^pixels?[-.]
+^stat(s|istics)?[0-9]*[_.-]
+^track(ers?|ing)?[0-9]*[_.-]
+aff(iliat(e)?(\.|s|tr|ion)*)[_.-]?
 doubleclick.net$
