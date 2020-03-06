@@ -9,7 +9,7 @@
 (^|\.)ladsup\.com$
 (^|\.)outbrain\.com$
 (^|\.)tr(k|ack(s|ing|ers)?)\.?
-(^|\.)xml(\.|\.ak-is[0-9]|\.[a-z]*)\.(net|com|bid|net)$
+(^|\.)xml(\.|\.ak-is[0-9]|\.[a-z]*)\.(net|com|bid)$
 [a-z].exdynsrv.com
 ^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
 ^(.+[_.-])?telemetry[_.-]
