@@ -1,7 +1,3 @@
-# PiHole Regex List
-#
-# last Update 06-03-2020 16:00
-#
 (.space|.host|.info|.xyz|.club|.bid|.fun|.icu|.comjs|.pro|.io|.mobi|.top|.best|.site|.co|.re)$
 (^|\.)ad(mob(ile)?|[0-9]*|[sxvz]?[0-9]*|([v][s]{1})|[s]rv?|([0-9]*[_.-])|(\.apl[0-9])|serv(er[0-9]*|ice|e[a-z]?|ing)?|sco|[v]{0,1}session|roll|vert([0-9]*|is(e[rs]*|ing)|s?)?)(\.|-)
 (^|\.)click\.
