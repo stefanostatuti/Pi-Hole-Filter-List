@@ -1,6 +1,6 @@
 # PiHole Filter List
 #
-# last Update 26-02-2020
+# last Update 10-03-2020
 #
 127.0.0.1 localhost #IPv4 localhost
 ::1 localhost #IPv6 localhost
@@ -8,9 +8,9 @@
 # AD SERVERS START HERE
 #					 
 01mspmd5yalky8.com
-1079540652.rsc.cdn77.org
-1483e789.dd.trckrry.com
 4strokemedia.com
+1483e789.dd.trckrry.com
+1079540652.rsc.cdn77.org
 a.exosrv.com
 a.gedidigital.it
 ad.foxitsoftware.com
@@ -76,6 +76,7 @@ cdns.gigya.com
 cdns.us1.gigya.com
 cfvod.kaltura.com
 chautcho.com
+chofezrj.com
 classionreactice.info
 clearadnetwork.com
 click.junmediadirect.com
@@ -83,6 +84,7 @@ click.sms-mail-message.com
 clickwork7secure.ckdns.co
 clogracursifie.xyz
 cluster.awmserve.com
+code4us.com
 composivel.pro
 connection-update.site
 connectomobi.com
@@ -95,8 +97,8 @@ crrepo.com
 crypto1xbit.com
 cws.connectedpdf.com
 cybertikl.info
-d144jmuhz9kvbq.cloudfront.net
 d1qggq1at2gusn.cloudfront.net
+d144jmuhz9kvbq.cloudfront.net
 daibusee.com
 darkx.best
 declk.com
@@ -122,6 +124,7 @@ evrikapoolkibrtreeety.gq
 feed.seodollars.com
 fhgh9sd.com
 flyingadvert.com
+fnggdlzncynqx.com
 freelesbiansex.pro
 gadskiz.com
 gayrights.top
@@ -150,6 +153,7 @@ inspikon.com
 instantresp.com
 interst12.com
 itshoot89dropit.com
+jbqeyfrli.com
 jistaumt.com
 jsmcrptjmp.com
 juretho.com
@@ -175,6 +179,7 @@ member.neteller.com
 metricsmonster.tv
 mibintrack.com
 mmwaq.essexgirlss.com
+mmwaq.meeturlove.net
 mmwebhandler.aff-online.com
 mobinner.affise.com
 monetizer.ili9.co
@@ -189,6 +194,7 @@ new.trackspots.club
 newfuckvideo.com
 newsunads.com
 nklwltrpzhy.com
+norton360.error-fixed.com
 notifier.rarlab.com
 nov-scanning101.host
 ntryonoxojiyya.com
@@ -197,6 +203,7 @@ offers-api.myoffrz.io
 ofhypnoer.com
 olicemanented.info
 omareeper.com
+oojthlwtlu.com
 organize.sms-mail-message.com
 ouqlhdajsaq.com
 outcome-ssp.supersonicads.com
@@ -218,6 +225,7 @@ pqmfbegdsuwqiz.com
 pr0pgutf0hp089.com
 prebid.smilewanted.com
 prf.hn
+promo.autoinrete.com		 
 propadsviews.com
 provers.pro
 psitchie.com
@@ -241,10 +249,12 @@ s.adroll.comjs
 s.carasexe.name
 sagimedyer.xyz
 scontent.xx.fbcdn.net
+sdhfbvd.com
 sendingmail.it
 seodollars.xml.ak-is2.net
 servedby.publy.net
 services.brid.tv
+signupprocessing.com
 silvalliant.info
 sinsoftu.com
 smpop.icfcdn.com
@@ -289,8 +299,8 @@ viatepigan.com
 videomatictv.com
 volvejudgetneig.info
 vpn-secure-kna2wc.xyz
-w.nativery.com
 w8sepi5s.awxozagefy.host
+w.nativery.com
 wallet.advcash.com
 warumbistdusoarm.space
 waubasou.com
@@ -322,6 +332,7 @@ www.epsqdbhrhqmbs.com
 www.eratqmdr.com
 www.evnoxawvqhda.com
 www.feyfjlpeexvg.com
+www.fnggdlzncynqx.com
 www.fvkdatbzswo.bid
 www.fvugxwoy.com
 www.geniusdexchange.com
@@ -411,6 +422,6 @@ xml.zeusadx.com
 yjot5dpt.continuumcomputerhelp.fun
 yjpwmybjkg.com
 yxsrshkmgiyn.com
-z.cdn.bdbdqndkdb.xyz
 z48gntbbu9pl.com
+z.cdn.bdbdqndkdb.xyz
 zhongbosoft.com
