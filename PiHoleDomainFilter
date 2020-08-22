@@ -1,6 +1,6 @@
 # PiHole Filter List
 #
-# last Update 10-03-2020
+# last Update 22-08-2020
 #
 127.0.0.1 localhost #IPv4 localhost
 ::1 localhost #IPv6 localhost
@@ -8,29 +8,33 @@
 # AD SERVERS STARTS HERE
 #					 
 01mspmd5yalky8.com
-1079540652.rsc.cdn77.org
-1237457124.rsc.cdn77.org
-1483e789.dd.trckrry.com
-1641994355.rsc.cdn77.org
 4strokemedia.com
-860b7ba3e2601.com
 8b3e300cc4.com
 8ball-online.tracking.html5games.com
 8e9580ab7166f3.com
+58f7c1ff30eb.com
+860b7ba3e2601.com
+1483e789.dd.trckrry.com
+1079540652.rsc.cdn77.org
+1237457124.rsc.cdn77.org
+1641994355.rsc.cdn77.org
 a.exosrv.com
 a.gedidigital.it
+abc-agency-azores.com
 ac3a735f07e3.com
 ad-mediation.tuanguwen.com
 ad.doubleclick.net
 ad.foxitsoftware.com
 ad.spreaker.com
 add-guard.com
+adflux.adlice.com
 adlic.rjfun.com
 admin.bitstarz24.com
 adright.xml.ak-is2.net
 ads.adxadserv.com
 ads.api.vungle.com
 ads.livetv273.me
+ads.livetv317.me
 ads.mopub.com
 ads.nexage.com
 ads.prsdigital.it
@@ -59,6 +63,7 @@ affiliate.across.it
 affiliates.natifico112.com
 affiliatetxt.nextmediaweb.com
 affiliation.software
+affiliazioniads.snai.it
 agreenikeru.site
 ajzhwnj.com
 alog.umeng.co
@@ -92,12 +97,12 @@ bardefeat-calitoner.icu
 bcuuipewdz.com
 beacon.dropbox.com
 beacon.indexexchange.eu
-beacons.gcp.gvt2.com
-beacons.gvt2.com
 beacons3.gvt2.com
 beacons4.gvt2.com
 beacons5.gvt2.com
 beacons5.gvt3.com
+beacons.gcp.gvt2.com
+beacons.gvt2.com
 beludicolor.com
 beonixom.com
 bestsolut10n2020.com
@@ -107,8 +112,8 @@ betwaypartners.com
 bik8r.bemobtrk.com
 bitadnetwork.com
 bitredirkgd.top
-bitstarz.eu
 bitstarz24.com
+bitstarz.eu
 bkjrxvxa.com
 blacurlik.com
 bonus-bk-2020.ru
@@ -117,6 +122,7 @@ bpdeals.co
 breakingfeedz.com
 briefext.com
 bronewlook.com
+buzzvids-direct.com
 bvzdfhpyz.com
 c-4tvylwolbz88x24dddx2euhuvcpzvyx2epv.g01.msn.com
 c.adsco.re
@@ -176,11 +182,12 @@ crptentry.com
 crrepo.com
 crypto1xbit.com
 cumdate.online
+cutt.us
 cws.connectedpdf.com
 cybertikl.info
-d144jmuhz9kvbq.cloudfront.net
 d1b5v1av0tib56.cloudfront.net
 d1qggq1at2gusn.cloudfront.net
+d144jmuhz9kvbq.cloudfront.net
 daibusee.com
 darkx.best
 declk.com
@@ -198,6 +205,7 @@ doubleadserve.com
 doubooca.com
 download-space.com
 downloadflix.com
+dradradra.info
 dsnxvnkxyimczk.com
 duxubhucftve.com
 dynamicadx.com
@@ -218,6 +226,7 @@ f93dad8683e2c7c.com
 fasttads.com
 fe2.edge.pantheon.io
 feed.seodollars.com
+femjoybabes.com
 feurl.com
 fhgh9sd.com
 financiastrackcrypto.co
@@ -241,6 +250,7 @@ gooblesdd.com
 googleads.g.doubleclick.net
 grooksom.com
 gruglooh.net
+hampculfitalvo.tk
 hitparades.org
 hivescottawa.info
 hooklove.com
@@ -254,6 +264,7 @@ idealgasm.com
 ie8eamus.com
 ifnwfachxk.com
 il32.co
+ileokscsawzzrh.com
 images.outbrainimg.com
 img.img-taboola.com
 in.station.im
@@ -298,13 +309,14 @@ lxcyxj.com
 mace.adrenalads.net
 marketing.net.occhiali24.it
 matures.mobi
-media.tenor.co
 media1.tenor.co
+media.tenor.co
 mediamob.go2affise.com
 mediasmidas.com
 member.neteller.com
 metricsmonster.tv
 mibintrack.com
+mingaria-conedict.com
 misspkl.com
 mmwaq.essexgirlss.com
 mmwaq.meeturlove.net
@@ -336,6 +348,7 @@ nsanedown.co
 nta1vb6cdlrl.com
 ntdvjlvau.com
 ntryonoxojiyya.com
+odds.am
 offers-api.ghostery.net
 offers-api.myoffrz.io
 offerte.club
@@ -347,10 +360,12 @@ oojthlwtlu.com
 organize.sms-mail-message.com
 ouqlhdajsaq.com
 outcome-ssp.supersonicads.com
+ovcxvpvdk.com
 oweverycanvas.info
 p.1ts18.top
 padspms.com
 palundrus.com
+pdv1.boonsex.com
 perf.cdnads.com
 phethikapso.pro
 phonestrevent.info
@@ -385,6 +400,7 @@ public.flourish.studio
 pushsar.com
 pyq6n.com
 qaggfomwjko.com
+qhkhchjqawst.com
 qiaepasvtp.com
 r.pcgamer.site
 r.redirekted.com
@@ -429,7 +445,9 @@ sl.we-ads25.club
 smpop.icfcdn.com
 soap-wash.com
 soldiscoperti.com
+songbird.cardinalcommerce.com
 sp.popcash.net
+spaceshifter.xyz
 spl.zeotap.com
 splendidus.net
 sqpgncbm.com
@@ -452,6 +470,7 @@ suscoop-comithers.icu
 t.1p1eqpotato.com
 t.rebornads.com
 tdfamwrbdwkosn.com
+teckinharmux11.live
 telemetry-02.adwc.mb.fr33tux.org
 telemetry.dropbox.com
 telemetry.intel.com
@@ -462,9 +481,11 @@ terrasdsdstd.com
 tfbqvqclg.com
 thebestbookies.eu
 thetimesociety.com
+tmp.dropgalaxy.in
 togenron.com
 totogetica.com
 tpstr.pro
+track2.fathew.com
 track.adgaem.com
 track.analytics-data.io
 track.builderredirect.com
@@ -477,7 +498,6 @@ track.noddus.com
 track.opossumsauce.com
 track.thingortwo.agency
 track.wg-aff.com
-track2.fathew.com
 tracker.borotto.com
 tracker.zer0day.to
 tracking.alltheappss.com
@@ -499,6 +519,7 @@ trk.hoolopiniomaster.space
 tryd.pro
 tsyndicate.com
 ttoc8ok.com
+tv1s4d6klh4n.com
 ueuodgnrhb.com
 ujkqudpjtbztz.com
 upsaibou.net
@@ -518,8 +539,8 @@ viewdeos.com
 viralize.tv
 volvejudgetneig.info
 vpn-secure-kna2wc.xyz
-w.nativery.com
 w8sepi5s.awxozagefy.host
+w.nativery.com
 wallet.advcash.com
 warumbistdusoarm.space
 watson.telemetry.microsoft.com
@@ -537,6 +558,7 @@ ws.vdosupreme.com
 wtyjbrsyf.com
 wvesvozyuoxg.com
 www.affiliates.natifico112.com
+www.affiliazioniads.snai.it
 www.ampugi334f.com
 www.andvqrqaeu.com
 www.applicationonlineaidev.club
@@ -544,12 +566,12 @@ www.awjyickdugj.com
 www.bcuuipewdz.com
 www.berush.com
 www.betwaypartners.com
-www.bitstarz.eu
 www.bitstarz21.com
 www.bitstarz22.com
 www.bitstarz23.com
 www.bitstarz24.com
 www.bitstarz25.com
+www.bitstarz.eu
 www.bkjrxvxa.com
 www.bpplltxabaayhm.com
 www.business.it
@@ -564,10 +586,12 @@ www.csyjaajr.com
 www.cutercounter.com
 www.d1qggq1at2gusn.cloudfront.net
 www.declk.com
+www.dradradra.info
 www.dsnxvnkxyimczk.com
 www.duxubhucftve.com
 www.ecpms.net
 www.eegnacou.com
+www.eftekes.com
 www.egfqtvewksktz.com
 www.epsqdbhrhqmbs.com
 www.eratqmdr.com
@@ -590,6 +614,7 @@ www.howtotipz.com
 www.hsbrhnkgkx.com
 www.idealgasm.com
 www.ifnwfachxk.com
+www.ileokscsawzzrh.com
 www.iolam.it
 www.iqnmjstd.com
 www.jazdoxthxiv.com
@@ -617,28 +642,35 @@ www.myemailtracking.com
 www.naiwvizpzflx.com
 www.nbwcnctzneii.com
 www.nklwltrpzhy.com
+www.nsanedown.co
 www.ntdvjlvau.com
 www.nvdljujp.com
 www.okvfijgdmqton.bid
 www.onclicksuper.com
 www.ouqlhdajsaq.com
+www.ovcxvpvdk.com
 www.pinbet.ru
 www.plgrrkpxnjrvac.com
+www.pngall.com
+www.podrug.com
 www.pondlinerguide.com
 www.pqmfbegdsuwqiz.com
 www.prf.hn
 www.prg.smartadserver.com
 www.propadsviews.com
 www.qaggfomwjko.com
+www.qhkhchjqawst.com
 www.qiaepasvtp.com
 www.rarbng.com
 www.rcblkkhfvrxyn.com
 www.reljjhhppxmv.com
+www.remoingay.com
 www.roscvyybfkm.com
 www.sexadept.com
 www.shoreline.site
 www.soldiscoperti.com
 www.sooiipveodjxb.com
+www.superfastvideos.xyz
 www.tadke.com
 www.tapresearch.com
 www.tdfamwrbdwkosn.com
@@ -695,9 +727,9 @@ yjot5dpt.continuumcomputerhelp.fun
 yjpwmybjkg.com
 youtuba.com
 yxsrshkmgiyn.com
+z48gntbbu9pl.com
 z.cdn.bdbdqndkdb.xyz
 z.cdn.trafficdok.com
-z48gntbbu9pl.com
 zemanta.imgix.net
 zhongbosoft.com
 zipfilehost.online
