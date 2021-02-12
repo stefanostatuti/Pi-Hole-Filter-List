@@ -1,6 +1,6 @@
 # PiHole Filter List
 #
-# last Update 31-12-2020
+# last Update 12-02-2021
 #
 127.0.0.1 localhost #IPv4 localhost
 ::1 localhost #IPv6 localhost
@@ -14,6 +14,7 @@
 1483e789.dd.trckrry.com
 15dbd0a17cd.com
 1641994355.rsc.cdn77.org
+24-7bestdailydeals.com
 4f2f6589dd7618.com
 4strokemedia.com
 58f7c1ff30eb.com
@@ -74,6 +75,9 @@ affiliation.software
 affiliazioniads.snai.it
 agreenikeru.site
 ajzhwnj.com
+alawachi.net
+alchemist.go2cloud.org
+alfik-fik.com
 alifafdlnjeruif.com
 alliedthirteen.com
 alog.umeng.co
@@ -101,12 +105,14 @@ asewlfjqwlflkew.com
 assets.dolly.media
 assets.evolutionadv.it
 ationcompos.top
+avbpaaypbe.com
 awecrptjmp.com
 aweproto.com
 awzle.bemobtrk.com
 azwancan.trafficmanager.net
 azwanp.trafficmanager.net
 b.1p1eqpotato.com
+b44a98d1901e5b7.com
 bainushe.com
 bardefeat-calitoner.icu
 bcuuipewdz.com
@@ -141,6 +147,7 @@ briefext.com
 bronewlook.com
 buzzvids-direct.com
 bvzdfhpyz.com
+bwvnmbhuuhalr.com
 c-4tvylwolbz88x24dddx2euhuvcpzvyx2epv.g01.msn.com
 c.adsco.re
 c.clickwork7secure.com
@@ -155,6 +162,7 @@ cdn.adkaora.space
 cdn.applicationonlineaidev.club
 cdn.b4u-advertising.it
 cdn.biddercore.io
+cdn.cpx-research.com
 cdn.feed.4wnet.com
 cdn.iubenda.com
 cdn.jifo.co
@@ -162,6 +170,7 @@ cdn.n214adserv.com
 cdn.polyfill.io
 cdn.runative-syndicate.com
 cdn.wbtrk.net
+cdn1.evosrv.com
 cdnapisec.kaltura.com
 cdns.gigya.com
 cdns.us1.gigya.com
@@ -248,6 +257,7 @@ everythingforwomen.club
 evnoxawvqhda.com
 evrikapoolkibrtreeety.gq
 exp.host
+f6eafeebfb.com
 f93dad8683e2c7c.com
 fasttads.com
 fdbtvavxtfvpbx.com
@@ -274,11 +284,14 @@ gkumodsmcmffdv.com
 gkzivrbyxxip.com
 glazegha.com
 gleaminist.info
+go.ktkjmp.com
 go.nordvpn.net
 go.pstmn.io
+gompoozu.net
 gooblesdd.com
 googleads.g.doubleclick.net
 grooksom.com
+grp.medialives.com
 gruglooh.net
 hampculfitalvo.tk
 hitparades.org
@@ -317,6 +330,7 @@ jrkuzeyfiztvos.com
 js.adspro.it
 jsc.epeex.io
 jsmcrptjmp.com
+jsscriptv1-live.cpx-research.com
 juretho.com
 kalilabagon.win
 kcveufgl.com
@@ -333,6 +347,7 @@ license.piriform.com
 licensebuttons.net
 licertle.co
 litcun.net
+live-api.cpx-research.com
 live.hegre.com
 lnyhnpwjviyn.com
 log.outbrainimg.com
@@ -345,6 +360,7 @@ lxcyxj.com
 mace.adrenalads.net
 marketing.net.occhiali24.it
 matures.mobi
+med.etoro.com
 media.tenor.co
 media1.tenor.co
 mediamob.go2affise.com
@@ -367,18 +383,24 @@ mon.toutiaocloud.com
 monetizer.ili9.co
 mopxhrgiyybr.com
 moscarossa.biz
+motivesbreastchopped.com
 mozgvya.com
+mrph5.bemobpath.com
+mrph5.bemobtrcks.com
 mvimzkmondb.com
+myteen.club
 n1272serv.xyz
 n13x4nfw8frika.com
 nativesubscribe.pro
 nbwcnctzneii.com
 nd.push-free.com
+network.ediffusion.net
 new.trackspots.club
 newfuckvideo.com
 newsunads.com
 nitehawk.hearst.io
 nklwltrpzhy.com
+nnolljzcxzud.com
 norton360.error-fixed.com
 notifier.rarlab.com
 nov-scanning101.host
@@ -392,6 +414,7 @@ oblivionwatcherrebellious.com
 odds.am
 offers-api.ghostery.net
 offers-api.myoffrz.io
+offers.cpx-research.com
 offerte.club
 ofhypnoer.com
 olicemanented.info
@@ -403,12 +426,14 @@ ouqlhdajsaq.com
 outcome-ssp.supersonicads.com
 ovcxvpvdk.com
 oweverycanvas.info
+oyywtwcx.com
 p.1ts18.top
 padspms.com
 palundrus.com
 pdv1.boonsex.com
 pecorizzami.com
 perf.cdnads.com
+pgntcjglm.com
 phethikapso.pro
 phonestrevent.info
 piwixesu.pro
@@ -446,6 +471,7 @@ public.flourish.studio
 pushsar.com
 pyq6n.com
 qaggfomwjko.com
+qbcpicrtdje.com
 qhkhchjqawst.com
 qiaepasvtp.com
 r.pcgamer.site
@@ -455,6 +481,7 @@ rcblkkhfvrxyn.com
 rd.tiscali.it
 rdtrck2.com
 rebrand.ly
+redirect4u.com
 refbanners.com
 refpasrasw.world
 reljjhhppxmv.com
@@ -542,6 +569,7 @@ track.analytics-data.io
 track.builderredirect.com
 track.cam4tracking.com
 track.cedsdigital.it
+track.ediffusion.net
 track.gowithads.com
 track.jobbydoo.it
 track.junggglex.com
@@ -564,6 +592,7 @@ tracking.tuobenessere.it
 tracksbooster.com
 tracksrocket.com
 trimurl.co
+trk.adtrk15.com
 trk.appittech.com
 trk.branch-dropped-famous-ground.xyz
 trk.globaladsmedia.us
@@ -572,6 +601,7 @@ tryd.pro
 tsyndicate.com
 ttoc8ok.com
 tv1s4d6klh4n.com
+ueudahqfig.com
 ueuodgnrhb.com
 uhbixtfhwdtmd.com
 ujkqudpjtbztz.com
@@ -591,11 +621,13 @@ videomatictv.com
 vidoomy.com
 viewdeos.com
 viralize.tv
+vobquhydgvyqf.com
 volvejudgetneig.info
 vpn-secure-kna2wc.xyz
 vznntmjdb.com
 w.nativery.com
 w8sepi5s.awxozagefy.host
+wall.cpx-research.com
 wall.wannads.com
 wallet.advcash.com
 wannads.imgix.net
@@ -617,7 +649,9 @@ word-v10.tuanguwen.com
 wrison-subustall.com
 ws.vdosupreme.com
 wtyjbrsyf.com
+wvekalpmn.com
 wvesvozyuoxg.com
+ww124-surveyonline.club
 www.1294335e830c6f.com
 www.adspredictiv.com
 www.affiliates.natifico112.com
@@ -626,7 +660,9 @@ www.alliedthirteen.com
 www.alruqbfjg.com
 www.ampugi334f.com
 www.andvqrqaeu.com
+www.annunciadv.com
 www.applicationonlineaidev.club
+www.avbpaaypbe.com
 www.awjyickdugj.com
 www.bcuuipewdz.com
 www.benoitbasset.net
@@ -643,6 +679,7 @@ www.bpplltxabaayhm.com
 www.business.it
 www.bvzdfhpyz.com
 www.bwhkzhvq.com
+www.bwvnmbhuuhalr.com
 www.bxczchdxynw.com
 www.bzxmgyfae.com
 www.cdn-marketools.plus500.com
@@ -704,6 +741,7 @@ www.kcveufgl.com
 www.kdbumyha.com
 www.kinguin.net
 www.kkkjjskrtsjvx.com
+www.ldcrixtrack.com
 www.lexozfldkklgvc.com
 www.lijzkjtk.com
 www.limetvv.com
@@ -720,6 +758,7 @@ www.myemailtracking.com
 www.naiwvizpzflx.com
 www.nbwcnctzneii.com
 www.nklwltrpzhy.com
+www.nnolljzcxzud.com
 www.nsanedown.co
 www.ntdvjlvau.com
 www.nvdljujp.com
@@ -729,6 +768,8 @@ www.okvfijgdmqton.bid
 www.onclicksuper.com
 www.ouqlhdajsaq.com
 www.ovcxvpvdk.com
+www.oyywtwcx.com
+www.pgntcjglm.com
 www.pinbet.ru
 www.pkgebysm.com
 www.plgrrkpxnjrvac.com
@@ -740,6 +781,7 @@ www.prf.hn
 www.prg.smartadserver.com
 www.propadsviews.com
 www.qaggfomwjko.com
+www.qbcpicrtdje.com
 www.qhkhchjqawst.com
 www.qiaepasvtp.com
 www.quick-bet.com
@@ -748,6 +790,7 @@ www.rcblkkhfvrxyn.com
 www.reljjhhppxmv.com
 www.remoingay.com
 www.roscvyybfkm.com
+www.safetrackd.com
 www.sexadept.com
 www.shoreline.site
 www.soldiscoperti.com
@@ -765,8 +808,10 @@ www.uqdqwaolvyxbjc.com
 www.vewwrmp.com
 www.viyhiikjetsl.com
 www.vjqshoyjxwk.com
+www.vobquhydgvyqf.com
 www.vowqesvqjwxc.com
 www.vpn-secure-kna2wc.xyz
+www.vsyaiejmfooba.com
 www.vznntmjdb.com
 www.wemgcdygokm.com
 www.wfawhfxe.com
@@ -774,11 +819,13 @@ www.wgqakonrahgprc.com
 www.whiskeydecanterguide.info
 www.wlgkqespz.com
 www.wtyjbrsyf.com
+www.wvekalpmn.com
 www.wvesvozyuoxg.com
 www.wwtxqylusxtd.com
 www.wzfxiaggxcpjb.com
 www.wzxdsgnqpnu.com
 www.xclofrfa.com
+www.xcsypkknp.com
 www.xddqdioms.com
 www.xjijqczj.com
 www.xlxamrkeiawkco.com
@@ -798,6 +845,7 @@ wzfxiaggxcpjb.com
 wzxdsgnqpnu.com
 x-tube.pro
 xclofrfa.com
+xcsypkknp.com
 xml.adbetnet.com
 xml.adcannybid.com
 xml.admidainsight.com
@@ -812,6 +860,7 @@ xml.showcasead.com
 xml.soldbyphonder.com
 xml.xmlads.bid
 xml.zeusadx.com
+yiiutube.com
 yjot5dpt.continuumcomputerhelp.fun
 yjpwmybjkg.com
 youtuba.com
