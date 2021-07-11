@@ -1,12 +1,15 @@
-(.space|.host|.info|.xyz|.club|.bid|.fun|.icu|.comjs|.pro|.io|.mobi|.top|.best|.site|.co|.re)$
 (^|\.)ad(mob(ile)?|[0-9]*|[sxvz]?[0-9]*|([v][s]{1})|[s]rv?|([0-9]*[_.-])|(\.apl[0-9])|serv(er[0-9]*|ice|e[a-z]?|ing)?|sco|[v]{0,1}session|roll|vert([0-9]*|is(e[rs]*|ing)|s?)?)(\.|-)
+(^|\.)bn5x\.net$
 (^|\.)click\.
+(^|\.)dotandads\.com$
 (^|\.)forter\.com$
 (^|\.)ladsup\.com$
 (^|\.)outbrain\.com$
 (^|\.)tr(k|ack(s|ing|ers)?)\.?
 (^|\.)xml(\.|\.ak-is[0-9]|\.[a-z]*)\.(net|com|bid)$
+[0-9]*\.juiceadv\.com
 [0-9]*adserv.com$
+[0-9]{10}.rsc.cdn77.org
 [a-z].exdynsrv.com
 ^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
 ^(.+[_.-])?telemetry[_.-]
@@ -22,5 +25,6 @@
 ^pixels?[-.]
 ^stat(s|istics)?[0-9]*[_.-]
 ^track(ers?|ing)?[0-9]*[_.-]
+adserv.com$
 aff(iliat(e)?(\.|s|tr|ion)*)[_.-]?
 doubleclick.net$
