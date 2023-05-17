@@ -28,3 +28,5 @@
 adserv.com$
 aff(iliat(e)?(\.|s|tr|ion)*)[_.-]?
 doubleclick.net$
+(\.|^)zip$
+(\.|^)mov$
