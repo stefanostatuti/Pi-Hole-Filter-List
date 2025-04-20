@@ -1,34 +1,13 @@
 # PiHole Filter List
 #
-# last update 26-02-2025
+# last update 20-04-2025
 #
 # 127.0.0.1 localhost #IPv4 localhost
 # ::1 localhost #IPv6 localhost
 #
 # AD SERVERS STARTS HERE
-#					 
+# 
 ||0000033333.xyz^
-||mu.fastmui.com^
-||bc.game^
-||coinplay.com^
-||promotioncoinplay.com^
-||profitsfly.com^
-||promotions.clubriches.com^
-||dplay.casino^
-||promotions.clubriches.com^
-||bonafides.club^
-||refpa9063395.top
-||vine.top^
-||typhonwallet.io^
-||mapojlfinx.com^
-||link.linkinbio.fun^
-||commentsmodule.com^
-||promotions.clubriches.com^
-||vstwerxerbc.top^
-||bromusic5s.site^
-||sweetthedate.life^
-||ahfninqtaamj.com^
-||dpaffiliates.info^||criches.net^
 ||009bet.info^
 ||01mspmd5yalky8.com^
 ||04-f-bmf.com^
@@ -445,6 +424,7 @@
 ||ah.viu.ca^
 ||ahcyjihjwkfke.xyz^
 ||ahfmruafx.com^
+||ahfninqtaamj.com^
 ||ahhwpucku.com^
 ||ahkoqzxuzsf.com^
 ||ahksl.info^
@@ -1228,6 +1208,7 @@
 ||bblesdgdghr.xyz^
 ||bbpint.info^
 ||bbtn4dpus44.com^
+||bc.game^
 ||bc4x4.com^
 ||bcaakxxuf.com^
 ||bcaquaria.com^
@@ -1550,6 +1531,7 @@
 ||bolo-pk.info^
 ||bom789.info^
 ||bombaststuiver.top^
+||bonafides.club^
 ||bonderconnect.com^
 ||bondochuns.guru^
 ||bonglucky.fun^
@@ -1644,6 +1626,7 @@
 ||broilerardeae.top^
 ||brokeragesearch842155.icu^
 ||bromiuswickets.shop^
+||bromusic5s.site^
 ||bronewlook.com^
 ||broodyeonisms.top^
 ||bropopian.top^
@@ -2279,6 +2262,7 @@
 ||cohost.org^
 ||cohtsfkwaa.com^
 ||coiguechinker.top^
+||coinplay.com^
 ||coinrule.io^
 ||cokcib.team^
 ||colacao.es^
@@ -2307,6 +2291,7 @@
 ||comfreymind.shop^
 ||comiccantus.top^
 ||comiifladv.com^
+||commentsmodule.com^
 ||commenttrendle.top^
 ||commetric.info^
 ||commoncoreapi.info^
@@ -2459,6 +2444,7 @@
 ||crftvideo.info^
 ||crianceunitize.top^
 ||cricdays.info^
+||criches.net^
 ||cricket-onl-game.com^
 ||crignment-affing.xyz^
 ||crimblepitbird.shop^
@@ -2997,7 +2983,9 @@
 ||download-space.com^
 ||downloadflix.com^
 ||downloadubuntusoftware.info^
+||dpaffiliates.info^
 ||dpcmemphis.net^
+||dplay.casino^
 ||dprnc.info^
 ||dpseympatijgpaw.com^
 ||dpuopxowjops.com^
@@ -3388,6 +3376,7 @@
 ||et.ad.dotandad.com^
 ||eternalbook.info^
 ||eternalsafe.info^
+||ether-blaze.net^
 ||etherapps.info^
 ||etheriononline.com^
 ||ethnogkonde.shop^
@@ -4024,6 +4013,7 @@
 ||getoutside.it^
 ||getprimefishse.shop^
 ||getsmartysavings.com^
+||gettether.xyz^
 ||getuniquefocus.com^
 ||getur3reward.info^
 ||getvintageanal.com^
@@ -4065,6 +4055,7 @@
 ||girkinacmaea.top^
 ||girlgamingempire.org^
 ||gishpurer.shop^
+||giveaway-blaze.net^
 ||gixerboyz.co.uk^
 ||gizmispfoj.com^
 ||gizoakre.net^
@@ -4710,7 +4701,6 @@
 ||hugysoral.digital^
 ||huhaciy.life^
 ||huheetoochoo.net^
-||huhvhibriazn.com^
 ||huhvhibriazn.com^
 ||huigaowen.com^
 ||hujosmacv.com^
@@ -6080,6 +6070,7 @@
 ||manulifedc.com^
 ||mapeensa.com^
 ||mapeeree.xyz^
+||mapojlfinx.com^
 ||mapuchedsp.top^
 ||maraisungift.top^
 ||marcelababe.com^
@@ -6398,6 +6389,7 @@
 ||msvipergirl.live^
 ||mtmgdsrq.com^
 ||mtmuhcmpz.com^
+||mu.fastmui.com^
 ||mubothawwp.com^
 ||muchlyabsume.top^
 ||muckilywayback.top^
@@ -8395,7 +8387,6 @@
 ||pixel.ionos.it^
 ||pixelpropelplatform.com^
 ||pixelriverforge.com^
-||pixelriverforge.com^
 ||pixfuture.com^
 ||pizcadesal.es^
 ||pizzeria-american-corner.de^
@@ -8548,6 +8539,8 @@
 ||promisesurveyors.com^
 ||promissmatax.top^
 ||promo.autoinrete.com^
+||promotioncoinplay.com^
+||promotions.clubriches.com^
 ||propadsviews.com^
 ||properatersch.fun^
 ||propomamaguey.top^
@@ -8901,6 +8894,7 @@
 ||referduler.top^
 ||referrals.a.exodus.io^
 ||refilmsbones.top^
+||refpa9063395.top
 ||refpadyddvuh.top^
 ||refpasrasw.world^
 ||refreshlocal.shop^
@@ -8966,6 +8960,7 @@
 ||revive.adsession.com^
 ||reviver.buzz^
 ||rewanweazeny.top^
+||reward-poolstake.net^
 ||rexfuzzle.com^
 ||reyokespelman.top^
 ||rezervasyonr.com^
@@ -9698,6 +9693,7 @@
 ||stagumpa.com^
 ||staixemo.com^
 ||stake-xaigames.network^
+||staked-ether.com^
 ||stampsshough.top^
 ||standelalcaics.top^
 ||stanleymedia.se^
@@ -9849,6 +9845,7 @@
 ||sweet-belt.com^
 ||sweet777.art^
 ||sweetdries.top^
+||sweetthedate.life^
 ||swiftfling.com^
 ||swofwyccup.com^
 ||swolnformose.top^
@@ -10417,6 +10414,7 @@
 ||tyddenlichts.top^
 ||tyhkzl.com^
 ||tykesfeaster.top^
+||typhonwallet.io^
 ||typpsposeuse.click^
 ||tzarismbiotome.top^
 ||tzetzesspirane.top^
@@ -10676,6 +10674,7 @@
 ||viirepvllqf.com^
 ||villaruhland.com^
 ||vimaxckc.com^
+||vine.top^
 ||viphirsaick.net^
 ||vipicmou.net^
 ||viplike24h.com^
@@ -10783,6 +10782,7 @@
 ||vsd.fr^
 ||vsrhxcwpxqsjdft.xyz^
 ||vstrom.info^
+||vstwerxerbc.top^
 ||vsyaiejmfooba.com^
 ||vtkkrpbht.xyz^
 ||vtydavos.com^
@@ -11243,6 +11243,7 @@
 ||xrismirweav.com^
 ||xroocdokfbi.com^
 ||xrp-io.com^
+||xrpslabs.com^
 ||xsosodbub.xyz^
 ||xtrbiz.com^
 ||xtualqwcoal.com^
@@ -11481,4 +11482,3 @@
 ||zywicowyzawrotglowy.pl^
 ||zzamawwinr.com^
 ||zzbroya.com.ua^
-||xrpslabs.com^
