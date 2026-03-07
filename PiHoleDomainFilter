@@ -1,12 +1,14 @@
 # PiHole Filter List
 #
-# last update 11-08-2025
+# last update 7-3-2026
 #
 # 127.0.0.1 localhost #IPv4 localhost
 # ::1 localhost #IPv6 localhost
 #
 # AD SERVERS STARTS HERE
 # 
+||nakedly.ai^
+||candai.online^
 ||0000033333.xyz^
 ||000049988.xyz^
 ||0019x.com^
