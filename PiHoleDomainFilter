@@ -1,14 +1,12 @@
 # PiHole Filter List
 #
-# last update 7-3-2026
+# last update 14-4-2026
 #
 # 127.0.0.1 localhost #IPv4 localhost
 # ::1 localhost #IPv6 localhost
 #
 # AD SERVERS STARTS HERE
 # 
-||nakedly.ai^
-||candai.online^
 ||0000033333.xyz^
 ||000049988.xyz^
 ||0019x.com^
@@ -309,6 +307,7 @@
 ||aarivers.info^
 ||aarushasolar.com^
 ||aas.advfn.com^
+||ab-merchandise.opera-api.com^
 ||abanteswoodie.top^
 ||abarthforum.co.uk^
 ||abashedlyizner.info^
@@ -2489,6 +2488,7 @@
 ||canalemergencyplumbingandheading.info^
 ||canarytrap.net^
 ||canavyclothing.com^
+||candai.online^
 ||candockimbrown.top^
 ||canenglishcollege.win^
 ||canicall.info^
@@ -3046,6 +3046,7 @@
 ||cngbiexp.com^
 ||cnled.info^
 ||cnyhomepage.com^
+||co-merchandise.opera-api.com^
 ||co-rectproducts.com^
 ||coachdstew.com^
 ||coachingfinanciero.info^
@@ -4402,6 +4403,7 @@
 ||elvez.de^
 ||elyarjaac.com^
 ||elzee-st.com^
+||em7p2r1.yourladynow.com^
 ||emailelevatesolutions.info^
 ||emailinboxautomatee.com^
 ||emasperak88d.online^
@@ -8923,6 +8925,7 @@
 ||naistophoje.net^
 ||nait.works^
 ||naiwvizpzflx.com^
+||nakedly.ai^
 ||nalajuxihodik.rest^
 ||nalwortessentials.shop^
 ||namadillo-5elementsnodes.lol^
@@ -10242,6 +10245,7 @@
 ||nuchikawc.com^
 ||nucjcavicpun.com^
 ||nucormaxtnil.com^
+||nudify.now^
 ||nufusehliyetsorgulama39.xyz^
 ||nuggad.net^
 ||nugrudsu.xyz^
@@ -11424,6 +11428,7 @@
 ||pornhiho.net^
 ||pornkai-com.cfd^
 ||pornlink.pro^
+||porntasia.app^
 ||pornttrex.com^
 ||porpitasevery.top^
 ||porro-consectetur.site^
@@ -12738,6 +12743,7 @@
 ||sf81.vip^
 ||sfavfyct.com^
 ||sfcg520.xyz^
+||sfeacccwopi.com^
 ||sfeipmkfiuxvp.com^
 ||sfeodrqh.com^
 ||sfidc.org^
@@ -15575,6 +15581,7 @@
 ||yourhay4d.com^
 ||yourhotfeed.com^
 ||yourinterruptmedia.org^
+||yourladynow.com^
 ||yourniceposts.com^
 ||yoursmallfactory.com^
 ||yourtango.com^
