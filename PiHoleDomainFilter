@@ -1,12 +1,11 @@
-# PiHole Filter List
-#
-# last update 31-10-2026
-#
-# 127.0.0.1 localhost #IPv4 localhost
-# ::1 localhost #IPv6 localhost
-#
-# AD SERVERS STARTS HERE
-# 
+[Adblock Plus 2.8]
+! Title: PiHole Filter List
+! Version: 18112026
+! X Files migliora la tua navigazione quotidiana!
+! Last modified: 18-11-2026
+! Expires: 15 days
+! Homepage: https://github.com/stefanostatuti/Pi-Hole-Filter-List
+! Hosting: GitHub.com
 ||0000033333.xyz^
 ||000049988.xyz^
 ||0000558.com^
@@ -18244,3 +18243,6 @@
 ||zzbroya.com.ua^
 ||zzevmjynoljz.bid^
 ||zzwuyuekeji.com^
+||admedyra.com^
+||cmnd.sdf6uj.dvkvzn.cn^
+||zline0.com^
